@@ -118,7 +118,7 @@ Análisis completo de 119K reservas hoteleras en India. ETL, EDA, dashboard inte
 *Revenue vs cancelaciones a lo largo del año*
 
 ### Gráfico 6: Feature Importance
-![Features](reports/imagenes/feature_importance.png)
+![Features](gráficos/Captura de pantalla 2026-06-03 121737.png)
 *Top 10 variables más importantes del modelo ML*
 
 ---
