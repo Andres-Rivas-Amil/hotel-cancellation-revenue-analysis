@@ -148,6 +148,11 @@ pip install -r requirements.txt
 # 3. Ejecutar notebook
 jupyter notebook notebooks/analisis_completo.ipynb
 
+pandas==2.0.3
+scikit-learn==1.3.0
+plotly==5.15.0
+jupyter==1.0.0
+
 # 4. Ver informe
 abrir reports/informe_ejecutivo.html
 
