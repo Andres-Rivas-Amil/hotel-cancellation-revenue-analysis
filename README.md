@@ -98,15 +98,15 @@ Análisis completo de 119K reservas hoteleras en India. ETL, EDA, dashboard inte
 > **📌 Instrucción:** Reemplaza estas imágenes con las que descargaste de tu notebook
 
 ### Dashboard 1: Revenue y Cancelaciones
-![Revenue Dashboard](reports/imagenes/revenue_dashboard.png)
+![Revenue Dashboard](Reports/imagenes/revenue dashboard.png)
 *Comparativa de revenue por hotel y tasa de cancelación*
 
 ### Dashboard 2: Mapa de Calor
-![Heatmap](reports/imagenes/heatmap_cancelaciones.png)
+![Heatmap](Reports/imagenes/heatmap cancelaciones.png)
 *Tasa de cancelación por mes y tipo de cliente*
 
 ### Dashboard 3: Sunburst de Revenue
-![Sunburst](reports/imagenes/sunburst_revenue.png)
+![Sunburst](Reports/imagenes/sunburst revenue.png)
 *Distribución jerárquica del revenue por segmento*
 
 ### Gráfico 4: Lead Time vs ADR
@@ -114,11 +114,11 @@ Análisis completo de 119K reservas hoteleras en India. ETL, EDA, dashboard inte
 *Relación entre lead time, ADR y cancelaciones*
 
 ### Gráfico 5: Evolución Temporal
-![Time Series](reports/imagenes/timeseries_revenue.png)
+![Time Series](Reports/imagenes/timeseries revenue.png)
 *Revenue vs cancelaciones a lo largo del año*
 
 ### Gráfico 6: Feature Importance
-![Features](reports/imagenes/feature importance.png)
+![Features](Reports/imagenes/feature importance.png)
 *Top 10 variables más importantes del modelo ML*
 
 ---
