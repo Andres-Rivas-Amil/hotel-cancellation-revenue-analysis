@@ -153,6 +153,14 @@ scikit-learn==1.3.0
 plotly==5.15.0
 jupyter==1.0.0
 
-# 4. Ver informe
+
+┌─────────────────────────────────────────────────────────────┐
+│  📊 Si se implementan las recomendaciones:                  │
+│                                                             │
+│  💰 Revenue adicional:          +€2-3M anual                │
+│  📉 Reducción de cancelaciones: -15%                        │
+│  🏨 Ocupación fines de semana:  +10%                       │
+│  ⭐ ROI estimado:                >300% en primer año        │
+└─────────────────────────────────────────────────────────────┘
 abrir reports/informe_ejecutivo.html
 
