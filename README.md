@@ -112,7 +112,7 @@ Análisis completo de 119K reservas hoteleras en India. ETL, EDA, dashboard inte
 *Relación entre lead time, ADR y cancelaciones*
 
 ### Gráfico 5: Evolución Temporal
-![Time Series](Reports/imagenes/timeseries_revenue.png)
+![Time Series](Reports/imagenes/timeseries-revenue.png)
 *Revenue vs cancelaciones a lo largo del año*
 
 ### Gráfico 6: Feature Importance
